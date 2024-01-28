@@ -1,0 +1,13 @@
+{
+  "status": "#number",
+  "message": "#string",
+  "data": {
+    "id": "#number",
+    "name": "#string",
+    "description": "#string",
+    "pet_category": "#string",
+    "sub_category": "#string",
+    "price": "#string",
+    "image": "#string"
+  }
+}

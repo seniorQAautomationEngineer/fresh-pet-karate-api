@@ -1,0 +1,13 @@
+{
+  "msg": "Product Details",
+  "status": 201,
+  "data": {
+    "id": 1,
+    "name": "Meow Mix",
+    "description": "Original Choice Dry Cat Food, 6.3-lb bag",
+    "pet_category": "cat",
+    "sub_category": "food",
+    "price": "9.48",
+    "image": "https://img.chewy.com/is/catalog/99965_MAIN._AC_SS232_V1462999356_.jpg"
+  }
+}
